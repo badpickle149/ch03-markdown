@@ -15,4 +15,17 @@ An example of how it can be used (with appropriate code highlighting)
 
 A _nested list_ of information about the command (i.e., things that it does, or how it can be used)
 
+# mkdir
+
+Mkdir can be used to create a new folder. For example:
+
+``` mkdir kumalo ```
+
+would create another folder in the current directory named kumalo.
+
+- Mkdir
+  - creates a new file
+  - must have a parameter with the name
+
+
 See `complete` branch for answers.
