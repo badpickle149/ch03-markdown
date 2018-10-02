@@ -12,6 +12,6 @@ will see the rendered markdown file.
 > I really love chipotle!
 -- Kumalo
 
-Find chipotle here![](www.chipotle.com)
+Find chipotle here![](https://www.chipotle.com/)
 
 See `complete` branch for an example.
